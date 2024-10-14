@@ -1,0 +1,112 @@
+body{
+    background-color: #735DA5;
+}
+.top-nav-bar{
+    top: 0%; 
+    left: 0%;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    background-color: #D3C5E5;
+    display: block;
+    
+}
+.menu{
+    background-color: #735DA5;
+    border: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 20px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.side-nav-bar{
+    width:20%;
+    height: 560px;
+    background-color: #D3C5E5;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    text-align: center;
+    display: none;
+}
+.Home{
+    background-color: #D3C5E5;
+    color: black;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50%;
+    font-size: larger;
+}
+.project{
+    background-color: #D3C5E5;
+    color: black;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20%;
+    font-size: larger;
+}
+.link{
+    background-color: #D3C5E5;
+    color: black;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20%;
+    font-size: larger;
+}
+.info{
+    background-color: #D3C5E5;
+    color: black;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20%;
+    font-size: larger;
+}
+.home-image{
+    margin-top: 10%;
+    border-radius: 100%;
+    
+}
+.my-info{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+}
+.project-block{
+    display: none;
+    margin-top: 10%;  
+}
+.project-img{
+    border-radius: 20px;
+}
+.link-block{
+    display: none;
+    margin-top: 20%;
+}
+.linked-in{
+    height: 50px;
+    width: 50px;
+    border-radius: 10%;
+    margin-right: 2%;
+}
+.git-hub{
+    height: 50px;
+    width: 50px;
+    border-radius: 10%;
+    margin-right: 2%;
+}
+.whats-app{
+    height: 50px;
+    width: 50px;
+    border-radius: 10%;
+    margin-right: 2%;
+}
+.insta-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 10%;
+    margin-right: 2%;
+}
